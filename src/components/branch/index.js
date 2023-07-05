@@ -6,7 +6,7 @@ function Branch() {
 
     return(
         <>
-            <Typography>Branch</Typography>
+            <Typography>Branch 123</Typography>
         </>
     );
 }
